@@ -1,0 +1,46 @@
+# Introduction
+
+## What is Python?
+
+Python is a high-level, general-purpose programming language known for its readable syntax and broad ecosystem of libraries. It is widely used in web development, data science, automation, scripting, artificial intelligence, and software testing. Because Python is free, open-source, and available on all major operating systems, it is one of the most accessible languages for beginners and professionals alike.
+
+## Purpose of This Document
+
+This documentation guides you through installing Python on your computer, verifying that the installation was successful, and resolving common problems that may occur during setup. It is intended for readers who are installing Python for the first time or setting up a new development environment.
+
+## Who Should Use This Guide
+
+- Students or professionals installing Python for the first time
+- Developers setting up a new machine or a fresh development environment
+- Anyone who needs a reliable reference for troubleshooting Python installation issues
+
+---
+
+# Software Requirements
+
+Before installing Python, confirm that your system meets the following requirements.
+
+## Supported Operating Systems
+
+| Operating System | Minimum Version |
+|-------------------|-----------------|
+| Windows | Windows 10 or later (64-bit recommended) |
+| macOS | macOS 11 (Big Sur) or later |
+| Linux | Most modern distributions (Ubuntu 20.04+, Fedora, Debian, etc.) |
+
+## Hardware Requirements
+
+- **Processor:** Any modern 64-bit processor
+- **RAM:** Minimum 2 GB (4 GB or more recommended)
+- **Disk Space:** At least 100 MB of free space for a base installation (more if using virtual environments or additional packages)
+
+## Other Requirements
+
+- **Administrator/root access:** Required to install Python system-wide (not required if installing only for the current user)
+- **Internet connection:** Needed to download the installer and, later, to install additional packages via `pip`
+- **A web browser:** To download the installer from the official Python website ([python.org](https://www.python.org))
+- **(Optional) A code editor:** Such as Visual Studio Code, PyCharm, or Sublime Text, for writing and running Python code after installation
+
+## Choosing a Python Version
+
+It is recommended to install the latest **stable** release of Python 3 (Python 2 reached end-of-life and should not be used for new projects). Check the [official Python downloads page](https://www.python.org/downloads/) for the current recommended version for your operating system.
